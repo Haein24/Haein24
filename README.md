@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Haein24
+- 👀 I’m interested in ... Machine Learning, Statistical Learning, Data
+- 🌱 I’m currently learning ... Statistics in SKKU (Master's program)
+- 📫 How to reach me ... chohaein224@gmail.com
+- 💭 More about me ... 
